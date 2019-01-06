@@ -1,6 +1,4 @@
 #This program will get GE stock price
-# from urllib.request import urlopen
-# from bs4 import BeautifulSoup
 import requests
 
 f = open("apiKey", "r")
